@@ -21,7 +21,6 @@ Estudiante de Ingeniería en Computación y desarrolladora de software apasionad
 
 ### 🚀 Proyectos Destacados
 
-* **[Nombre de tu proyecto]**: Breve descripción de qué hace, las tecnologías que utilizaste y los retos que resolviste.  
   🔗 [Repositorio]( enlace-al-repo )
 
 ---
