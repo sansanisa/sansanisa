@@ -25,7 +25,3 @@ Estudiante de Ingeniería en Computación y desarrolladora de software apasionad
 
 ---
 
-### 📊 Estadísticas de GitHub
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sansanisa&show_icons=true&theme=radical" />
-</p>
