@@ -40,6 +40,11 @@
 
 ---
 
+### Actividad y Lenguajes más usados
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sansanisa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansanisa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</div>
 
 <br>
 
