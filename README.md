@@ -14,7 +14,7 @@
 -  Me gusta modelar datos con integridad, optimizar consultas y estructurar servicios modulares y mantenibles.
 -  Interesada en automatización de procesos, integración
 
-### 🧰 Herramientas con las que trabajo
+### Herramientas con las que trabajo
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -27,7 +27,7 @@
 
 ---
 
-### 🤝 Proyectos en los que he contribuido
+### Proyectos en los que he contribuido
 > Repositorios colaborativos donde he sumado código y participación:
 
 - **AleskyHospital** (`Java` · `Spring Boot` · `Docker`)  
@@ -40,11 +40,6 @@
 
 ---
 
-## 📊 Actividad y Lenguajes más usados
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sansanisa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansanisa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>#
 
 <br>
 
